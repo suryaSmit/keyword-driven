@@ -4,6 +4,7 @@ public class Constants {
 	public static final String folderPath = ".//excel files/";
 	
 	//test case documnet
+	//modification in github
 	public static final int TC_TESTCASENAME = 1;
 	public static final int RUNMODE = 2;
 	
